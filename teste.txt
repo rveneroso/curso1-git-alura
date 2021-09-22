@@ -1,2 +1,3 @@
-Teste
+Teste - Texto adicionado na branch titulo - Novo texto adicionado após o primeiro commit na branch titulo
+"Docker: Criando containers sem dores de cabeça
 Texto adicionado na branch lista
