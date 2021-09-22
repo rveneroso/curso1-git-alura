@@ -1,2 +1,3 @@
 Teste - Texto adicionado na branch titulo - Novo texto adicionado após o primeiro commit na branch titulo
 "Docker: Criando containers sem dores de cabeça
+Linha adicionada na branch titulo. Neste momento não existe aqui a linha previamente adicionada na branch lista e que já foi transferida para a branch master
